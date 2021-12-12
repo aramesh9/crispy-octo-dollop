@@ -1,0 +1,14 @@
+body{
+    background-color: goldenrod;
+}
+#sketchtobedrawn{
+    color:silver;
+}
+#time{
+float:right;
+margin-right: 45px;
+}
+#score{
+    float:left;
+    margin-left: 45px;
+}
